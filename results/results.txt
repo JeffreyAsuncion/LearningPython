@@ -1,0 +1,11 @@
+Total bytecount: 40525
+Files list:
+--------------
+textfile.txt.bak
+testzip.zip
+archive.zip
+README.md
+hello.py
+.gitignore
+LICENSE
+newfile.txt
